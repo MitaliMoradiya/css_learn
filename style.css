@@ -1,0 +1,39 @@
+h1{
+    color:blueviolet;
+}
+
+p{
+    color: chocolate;
+}
+
+button{
+
+    color: darkgreen;
+    background-color: bisque;
+}
+
+body{
+    background-color: rgb(255, 255, 0);
+}
+
+
+/* Universal selector */
+/* *{
+    color:pink;
+} */
+
+/* Element Selector */
+/* h1{
+    color:brown;
+} */
+
+/* ID selector */
+/* #paragraph{ 
+    color: aqua;
+}*/
+
+/* class selector */
+/* .main{
+    color: red;
+} */
+
