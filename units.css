@@ -1,0 +1,47 @@
+/* #box1{
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+    font-size: 10px;
+}
+
+#box2{
+    height: 50px;
+    width: 30%;
+    background-color: darkgreen;
+    font-size: 2em;
+    width: 5rem;
+} */
+
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 1px solid black;
+    display: inline;
+}
+
+#box1{
+    position: static;
+    background-image: url("han-chenxu-YdAqiUkUoWA-unsplash.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#box2{
+    position: relative; /* (it change the postion) */
+    top: 20px;
+}
+
+#box3{
+    position:sticky;
+    top: 20px;
+}
+
+#box4{
+    position: fixed;
+    top: 150px;
+    z-index: 10px;
+}
+
