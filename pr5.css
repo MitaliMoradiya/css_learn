@@ -1,0 +1,10 @@
+div{
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+    background-image:url("pexels-karina-kungla-18198984.jpg");
+    position: fixed;
+    margin-left: 75%;
+    margin-top: 33%;
+
+}
