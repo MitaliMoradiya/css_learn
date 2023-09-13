@@ -1,0 +1,39 @@
+.demo
+{
+    background-color: darkgray;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+a{ 
+     text-decoration: none;
+    color: black;
+    
+  
+    
+}
+li{
+    
+    list-style-type: none;
+    display: inline;
+ 
+}
+
+#demo2{
+    background-color: chartreuse;
+    width: 220px;
+    height: 220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#demo3{
+    width: 120px;
+    height: 120px;
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+}
